@@ -2,7 +2,9 @@
 
 <div align="center">
 
-![TryHackMe](https://tryhackme-images.s3.amazonaws.com/room-icons/blue.png)
+## 🔗 Room Link
+
+https://tryhackme.com/room/blue
 
 **Room:** Blue  
 **Platform:** TryHackMe  
@@ -317,7 +319,7 @@ flag{admin_documents_can_be_valuable}
 
 ---
 
-# 📚 Key Takeaways
+# 📚 Key Takeaways method
 
 - Identified Windows host via TTL analysis.
 - Enumerated SMB services using Nmap.
@@ -336,9 +338,7 @@ This repository is intended for educational purposes only. Perform security test
 
 ---
 
-## 🔗 Room Link
 
-https://tryhackme.com/room/blue
 
 ---
 
